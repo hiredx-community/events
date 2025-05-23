@@ -4,23 +4,25 @@ This document lists commonly used venues for our in-person events and primary pl
 
 ---
 
-## 1. **UBC Biomedical Branch Library**
-
-* **Address:** 2198 Health Sciences Mall, Vancouver, BC V6T 1Z3 (within the UBC Point Grey Campus)
-* **Type:** University Library Meeting Space
-* **Capacity:** Typically meeting rooms or study areas configured for small to medium-sized groups (e.g., 20-40 people). Specific room capacity will be noted per event.
-* **Access:** Located on the UBC Point Grey Campus. Accessible via public transit (bus routes serving UBC). Paid parking is available on campus.
-* **Amenities:** Wi-Fi, projectors, whiteboards. Access to library resources during operating hours.
-
----
-
-## 2. **Vancouver Public Library - Central Branch**
+## 1. **Vancouver Public Library - Central Branch (Preferred)**
 
 * **Address:** 350 W Georgia St, Vancouver, BC V6B 6B1
 * **Type:** Public Library Meeting Rooms
+* **Availability:** Primarily used on weekends. Check specific event details for times.
 * **Capacity:** Varies depending on the booked room (e.g., small discussion rooms for 10-15, larger meeting rooms for 30-50).
 * **Access:** Located in downtown Vancouver, easily accessible via SkyTrain (Vancouver City Centre or Granville Stations) and numerous bus routes. Paid street parking and parkades nearby. Check with the library for specific room numbers.
-* **Amenities:** Wi-Fi, projectors, tables and chairs.
+* **Amenities:** Wi-Fi, projectors, tables, and chairs.
+
+---
+
+## 2. **UBC Biomedical Branch Library**
+
+* **Address:** 2198 Health Sciences Mall, Vancouver, BC V6T 1Z3 (within the UBC Point Grey Campus)
+* **Type:** University Library Meeting Space
+* **Availability:** Monday - Friday, 11:00 AM - 4:00 PM (for those with flexible schedules).
+* **Capacity:** Typically meeting rooms or study areas configured for small to medium-sized groups (e.g., 20-40 people). Specific room capacity will be noted per event.
+* **Access:** Located on the UBC Point Grey Campus. Accessible via public transit (bus routes serving UBC). Paid parking is available on campus.
+* **Amenities:** Wi-Fi, projectors, whiteboards. Access to library resources during operating hours.
 
 ---
 
