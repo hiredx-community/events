@@ -40,7 +40,7 @@ Missed an event? Want to revisit a session? Our `past-events/` directory contain
 
 Have an idea for a workshop, a topic you'd like to present, or a guest speaker suggestion? We'd love to hear from you!
 
-* **Open a [new issue using our Event Proposal template](https://github.com/HiredX-Fullstack-Club/events/issues/new?template=event-proposal.md) in this repository.**
+* **Open a [new issue using our Event Proposal template](https://github.com/HiredX-Fullstack-Club/events/issues/new?template=event-proposal.yml) in this repository.**
 * Describe your idea in detail, including potential dates, topics, and any resources needed.
 
 ---
