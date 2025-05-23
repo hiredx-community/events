@@ -18,6 +18,12 @@ Our events are designed to:
     * **Vancouver Tech Group:** General announcements might also be shared in the broader **[Vancouver Tech Group WhatsApp](https://chat.whatsapp.com/GXXSWJBWdnkFElMxwUldIh)**.
 * **Browse `upcoming-events/`:** All details for upcoming events will be in this directory.
 
+## Event Locations
+
+Find details about common venues for our in-person events, including addresses and any specific access information.
+
+➡️ **[View Event Locations](locations.md)**
+
 ## Upcoming Events
 
 All details for our next events will be found in the `upcoming-events/` directory. Each event will have its own Markdown file with full information.
