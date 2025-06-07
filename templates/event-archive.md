@@ -1,47 +1,33 @@
 ---
-title: "[Your Event Title Here]"
+title: "[Archived Event Title]"
 date: "YYYY-MM-DD"
-time: "HH:MM [Timezone]" # e.g., "18:00 PST", "10:00 AM BST"
-platform: "MS Teams" # or "Vancouver Public Library - Central Branch"
-location_details: "Link to MS Teams meeting / Specific room details if physical"
-speakers: ["Speaker Name 1", "Speaker Name 2 (Optional)"]
-event_type: "Workshop" # e.g., "Workshop", "Technical Talk", "Networking"
-rsvp_link: "https://forms.gle/your-rsvp-link" # Or link to a GitHub Discussion/Issue
+speakers: ["Speaker Name 1"]
+event_type: "Workshop"
+# New fields for archived events:
+recording_link: "https://link-to-recording-on-MS-Teams-SharePoint-or-YouTube"
+slides_link: "https://link-to-slides-on-Google-Drive-or-PDF"
+code_link: "https://github.com/hiredx-fullstack-club/event-specific-repo" # If applicable
 ---
 
-# [Your Event Title Here]
+# [Archived Event Title]
 
-## Date & Time: YYYY-MM-DD, HH:MM [Timezone]
-## Location: [MS Teams / Venue Name] ([Details/Link to meeting/map])
+## Date: YYYY-MM-DD
+## Location: [MS Teams / Venue Name]
 
-### About This Event
+### Event Summary
 
-[Provide a concise, engaging description of the event. What will attendees learn or experience? What's the main goal?]
+[Write a brief summary of what was covered, key takeaways, and highlights of the event. Aim for 2-3 paragraphs.]
+
+### Resources
+
+* **Recording:** [Watch the Full Session Here](link-to-recording-on-MS-Teams-SharePoint-or-YouTube)
+* **Slides:** [View Presentation Slides](link-to-slides-on-Google-Drive-or-PDF)
+* **Code Examples:** [Explore the Code Repository](link-to-github-repo)
+* **Additional Resources:** [Any other relevant links (e.g., articles, tools) shared during the event]
 
 ### Speakers
 
-* **[Speaker Name 1]:** [Brief bio, e.g., "Full-stack developer at [Company], specializing in [X] and [Y]."]
-* **[Speaker Name 2 (Optional)]:** [Brief bio]
-
-### Agenda
-
-* [HH:MM] - [HH:MM]: Introduction & Welcome
-* [HH:MM] - [HH:MM]: Topic 1 / Main Presentation Part 1
-* [HH:MM] - [HH:MM]: Interactive Session / Demo / Activity
-* [HH:MM] - [HH:MM]: Topic 2 / Q&A Session
-* [HH:MM] - [HH:MM]: Networking / Wrap-up
-
-### Prerequisites (What attendees should know/have before attending)
-
-* [List any software, knowledge, or setup needed. Be specific.]
-* *Example:* "Laptop with Node.js v18+ and npm installed."
-* *Example:* "Basic understanding of React hooks."
-* *Example:* "No prior knowledge required, just curiosity!"
-
-### RSVP
-
-Please RSVP here to help us estimate attendance: **[RSVP Link Here]**
+* **[Speaker Name 1]:** [Brief bio]
 
 ---
-*This event adheres to the [HiredX Full-stack Club Code of Conduct](https://github.com/HiredX-Fullstack-Club/.github/blob/main/CODE_OF_CONDUCT.md).*
-*For common locations/platforms and their specifics, refer to our [locations document](https://github.DCHiredX-Fullstack-Club/events/blob/main/locations.md).*
+*This event adhered to the [HiredX Full-stack Club Code of Conduct](https://github.com/HiredX-Fullstack-Club/.github/blob/main/CODE_OF_CONDUCT.md).*
