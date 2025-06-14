@@ -1,0 +1,41 @@
+name: Update Event READMEs on PR to main
+
+permissions:
+  contents: write
+
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'upcoming-events/*.md'
+      - 'past-events/*.md'
+
+jobs:
+  update-readmes:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout PR branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Generate READMEs
+        run: node .github/scripts/update-readmes.js
+
+      - name: Commit README changes to PR branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add upcoming-events/README.md past-events/README.md
+          git commit -m "chore: auto-update event READMEs" || echo "No changes to commit"
+          git push origin ${{ github.head_ref }}

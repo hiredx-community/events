@@ -1,5 +1,5 @@
 ---
-title: "[Archived] Full-stack Club Introductions"
+title: "[Archived] Full Stack Club Introductions"
 date: "2025-06-14"
 speakers: ["Swaye Chateau"]
 event_type: "Networking"
@@ -7,7 +7,7 @@ recording_link: "https://kitechsoftware-my.sharepoint.com/:v:/p/swaye/EevSTH2lHi
 slides_link: "https://kitechsoftware-my.sharepoint.com/:p:/p/swaye/EciTuWRfliFPsd2QcDNR0EcBcaZ1eJN26oaanLorVCvOnw?e=KTWqxf"
 ---
  
-# [Archived] Full-stack Club Introductions
+# [Archived] Full Stack Club Introductions
  
 ## Date: 2025-06-14, 12:00 PM PST
 ## Location: MS Teams
@@ -29,11 +29,11 @@ Participants range from newcomers in tech to experienced software engineers. Eve
 
 #### 📌 Key Outcomes
 
-Meeting cadence: Bi-weekly club sessions
+**Meeting cadence**: Bi-weekly club sessions
 
-Cross-group collabs: Every 2 months with other tech communities
+**Cross-group collabs**: Every 2 months with other tech communities
 
-Upcoming initiatives:
+**Upcoming initiatives**:
 
 - Launching a Discord server for better resource sharing
 
@@ -60,7 +60,7 @@ Upcoming initiatives:
  
 #### Swaye Chateau
 
-Swaye is a tech professional with 10+ years in IT and over 5 years as a software engineer. He’s the founder of a dev company and has worked across freelance, startup, and enterprise environments. Now leading the HiredX Full-stack Club, he’s focused on helping developers grow through community, real-world projects, and career support.
+> Swaye is a tech professional with 10+ years in IT and over 5 years as a software engineer. He’s the founder of a dev company and has worked across freelance, startup, and enterprise environments. Now leading the HiredX Full-stack Club, he’s focused on helping developers grow through community, real-world projects, and career support.
  
 ---
 *This event adhered to the [HiredX Full-stack Club Code of Conduct](https://github.com/HiredX-Fullstack-Club/.github/blob/main/CODE_OF_CONDUCT.md).*
