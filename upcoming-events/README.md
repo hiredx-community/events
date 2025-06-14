@@ -1,3 +1,4 @@
 # 📅 Upcoming Events
 
-No upcoming events, stay tuned!
+| Date       | Study Group      | Title         | File |
+|------------|------------------|---------------|------|
