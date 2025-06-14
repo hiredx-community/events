@@ -1,7 +1,6 @@
 const fs = require('fs');
 const path = require('path');
 
-// Capitalizes each word in a string (e.g., "full stack club" → "Full Stack Club")
 function capitalizeWords(str) {
   return str
     .split(' ')
