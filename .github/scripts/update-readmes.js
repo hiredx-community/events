@@ -39,10 +39,10 @@ function generateReadme(dir, title, reverse = false) {
   const content = [
     `# ${title}`,
     '',
-    '| Date       | Study Group      | Title         | File |',
-    '|------------|------------------|---------------|------|',
+    '| Date       | Study Group      | Event Title   |',
+    '|------------|------------------|---------------|',
     ...files.map(file =>
-      `| ${file.date} | ${file.group} | ${file.title} | [Link](./${file.filename}) |`
+      `| ${file.date} | ${file.group} | [${file.title}](./${file.filename}) |`
     )
   ].join('\n');
 
