@@ -1,5 +1,5 @@
 ---
-title: "Full-stack Club: Meetup #1"
+title: "Full-stack Club: Meetup 1"
 date: "2025-07-05"
 event_type: "Workshop"
 ---
